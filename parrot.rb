@@ -1,3 +1,3 @@
-def parrot
+def parrot (call = "Squawks")
   puts "Squawk!"
 end
